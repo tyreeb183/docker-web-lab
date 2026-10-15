@@ -286,5 +286,9 @@ Screenshots documenting deployment, command execution, server logs, networking t
 
 \- Add automated deployment testing.
 
+## Web Server Screenshot
+
+![My Linux Docker web server](web-server.png)
+
 
 

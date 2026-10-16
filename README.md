@@ -289,6 +289,13 @@ Screenshots documenting deployment, command execution, server logs, networking t
 ## Web Server Screenshot
 
 ![My Linux Docker web server](web-server.png)
+![Linux Commands](linux-commands.png)
 
 
+
+![Nginx Server Logs](server-logs.png)
+
+
+
+![TCP Connectivity Test](tcp-test.png)
 
